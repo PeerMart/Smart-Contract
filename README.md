@@ -66,7 +66,9 @@ A simple ERC20 token mimicking USDC for testing.
 - All critical actions and state changes are covered by unit tests.
 
  
-
+**USDC**
 [0x7fddE93c75669792002c8dBd49D0F6e869D15C96](https://hashscan.io/testnet/contract/0x7fddE93c75669792002c8dBd49D0F6e869D15C96/)
 
+**ECommerce**
 https://hashscan.io/testnet/contract/0xAdB02aaC89051778f505f7FC6A905E21283a62d3
+
