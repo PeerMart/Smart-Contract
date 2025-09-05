@@ -1,6 +1,6 @@
- # ECommerce Smart Contract Project
+ # Peer Mart
 
-A robust, upgradeable ECommerce marketplace smart contract system for the Ethereum blockchain. This project allows sellers to register and list products, buyers to purchase using USDC, and features secure payment, automated fee and penalty handling, reporting, and seller management.
+ This project allows sellers to register and list products, buyers to purchase using USDC, and features secure payment, automated fee and penalty handling, reporting, and seller management.
 
 ## Features
 
